@@ -1,0 +1,24 @@
+{
+  "name": "cypress-components",
+  "version": "1.0.0",
+  "description": "GOGOLADZE Besiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besogogoladze/cypress-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/besogogoladze/cypress-components/issues"
+  },
+  "homepage": "https://github.com/besogogoladze/cypress-components#readme",
+  "devDependencies": {
+    "cypress": "^15.18.1"
+  }
+}
